@@ -150,7 +150,7 @@ hr{
 
 .item {
 	position:relative;
-  width:350px;;
+  width:350px;
   height:350px;
   margin:10px;
 }
@@ -289,6 +289,9 @@ opacity: 1;
 	}
 	.heading h2{
 	font-size:16px;
+	}
+	.item{
+		width:100%;
 	}
 	#contact div{
 		line-height:1.2;
