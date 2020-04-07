@@ -284,6 +284,14 @@ opacity: 1;
 	#chef img{
 		width:100%;
 	}
+	.heading2 h2{
+	font-size:14px;
+	margin-top:0;
+	}
+	.heading h2{
+	font-size:14px;
+	margin-top:0;
+	}
 	#contact div{
 		line-height:1.2;
 	}
