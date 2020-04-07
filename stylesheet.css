@@ -267,7 +267,11 @@ opacity: 1;
 	margin:10px;
 }
 
-
+@import only screen and (max-device-width: 1024px) and (orientation: portrait), only screen and (max-width: 1024px) and (orientation: portrait)
+.heading .heading2 .contact {
+    width: 100%;
+    clear: both; 
+}
 
 @media (max-width: 768px) {
 	#title{
